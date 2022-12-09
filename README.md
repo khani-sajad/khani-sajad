@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khani-sajad
+- 👋 Hi, I’m Sajad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on any instersing projecs
